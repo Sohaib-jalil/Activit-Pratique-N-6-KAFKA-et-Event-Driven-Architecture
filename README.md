@@ -82,3 +82,20 @@ Packaging : Jar
 
 ![Screenshot 2024-01-14 182818](https://github.com/Sohaib-jalil/Activit-Pratique-N-6-KAFKA-et-Event-Driven-Architecture/assets/92445933/caf198dd-3acc-458e-a7b4-2b644a65d4dd)
 
+## Un Service de Data Analytics Real Time Stream Processing avec Kaflka Streams
+
+![Screenshot 2024-01-14 192517](https://github.com/Sohaib-jalil/Activit-Pratique-N-6-KAFKA-et-Event-Driven-Architecture/assets/92445933/092509bb-6c99-43f5-9e87-d4c3d5758edf)
+
+![Screenshot 2024-01-14 192451](https://github.com/Sohaib-jalil/Activit-Pratique-N-6-KAFKA-et-Event-Driven-Architecture/assets/92445933/3d3ddd61-e3d4-49a3-999c-9b80c8c6a08b)
+
+## Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel
+
+ ![Screenshot 2024-01-14 200548](https://github.com/Sohaib-jalil/Activit-Pratique-N-6-KAFKA-et-Event-Driven-Architecture/assets/92445933/8c89692d-526a-42c3-aadc-94b75b384aa3)
+
+![Screenshot 2024-01-14 200629](https://github.com/Sohaib-jalil/Activit-Pratique-N-6-KAFKA-et-Event-Driven-Architecture/assets/92445933/d4df95d6-5766-44bf-80d2-cb04703add18)
+
+![Screenshot 2024-01-14 201423](https://github.com/Sohaib-jalil/Activit-Pratique-N-6-KAFKA-et-Event-Driven-Architecture/assets/92445933/1e7182d8-66fc-4bbc-8a2d-ac47fc7ad0da)
+
+![Screenshot 2024-01-14 202002](https://github.com/Sohaib-jalil/Activit-Pratique-N-6-KAFKA-et-Event-Driven-Architecture/assets/92445933/579db238-1d49-44ce-9389-c23037113333)
+
+![Screenshot 2024-01-14 202105](https://github.com/Sohaib-jalil/Activit-Pratique-N-6-KAFKA-et-Event-Driven-Architecture/assets/92445933/ac3001f5-4f8f-4865-853d-509fa1c45cf3)
